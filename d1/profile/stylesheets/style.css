@@ -1,0 +1,19 @@
+    <style>
+    .left {
+      color: red;
+    }
+    .jobs {
+      color: blue;
+    }
+    h1 {
+      text-align: center;
+    }
+    img {
+      width: 190px;
+      height: auto;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 650;
+    }
+    </style>
