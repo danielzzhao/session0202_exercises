@@ -1,0 +1,5 @@
+<p><%= @a_pair %></p>
+<p>Combination: <%= @number %></p>
+
+<%= @a_pair %>
+<%= @number %>
